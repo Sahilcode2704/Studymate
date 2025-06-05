@@ -1,0 +1,48 @@
+{
+  "funding_request": {
+    "project_name": "Studymate",
+    "project_type": "tech_project",
+    "urgency": "immediate",
+    "reason": "To maintain development momentum and retain core contributors critical to the project's success.",
+    "goal": "To provide timely financial support to developers and collaborators so they can continue building and innovating without interruption.",
+    "consequence_of_delay": "Without immediate funding, key team members may be forced to leave the project due to financial constraints, causing delays, loss of knowledge, and potential failure to reach project milestones.",
+    "requested_action": "Provide immediate funding to ensure team stability and ongoing development.",
+    "impact": "Sustaining our team will allow us to deliver a high-impact tech solution that serves and empowers others, aligned with our broader mission and long-term vision.",
+    "milestones": [
+      {
+        "name": "Beta Release",
+        "description": "Public beta launch of Studymate with core features.",
+        "target_date": "2025-07-31"
+      },
+      {
+        "name": "User Feedback Integration",
+        "description": "Collect and implement user feedback for improvements.",
+        "target_date": "2025-09-15"
+      },
+      {
+        "name": "Official Version 1.0",
+        "description": "Launch of the official, stable version.",
+        "target_date": "2025-11-30"
+      }
+    ],
+    "team_details": {
+      "core_developers": 5,
+      "designers": 2,
+      "testers": 3,
+      "community_managers": 1
+    },
+    "budget_breakdown": {
+      "developer_salaries": 3000,
+      "designer_salaries": 1500,
+      "tester_salaries": 1200,
+      "server_costs": 500,
+      "marketing": 800,
+      "miscellaneous": 400,
+      "total_requested": 7400,
+      "currency": "USD"
+    },
+    "info": {
+      "read": "README.md"
+    }
+  }
+}
